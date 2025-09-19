@@ -6,7 +6,7 @@
 
 ## 📬 Contacto  
 - ✉️ **Email:** adriandondarza@gmail.com
-- 🌐  https://acesse.one/Linkedin-Adrian-Dondarza 
+- 🌐  Linkedin-Adrian-Dondarza 
 
 ---
 
