@@ -1,15 +1,47 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Adrián Dondarza  
 
-**Adrian24prog/Adrian24prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Apasionado por la tecnología y el desarrollo de software, siempre en búsqueda de nuevos retos y aprendizajes.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📬 Contacto  
+- ✉️ **Email:** adriandondarza@gmail.com
+- 🌐  https://acesse.one/Linkedin-Adrian-Dondarza 
 
+---
+
+## 💻 Lenguajes de Programación  
+- ☕ Java  
+- 📱 Kotlin  
+- 🎮 C#  
+- 🐍 Python  
+
+---
+
+## ⚙️ Frameworks  
+- 🎨 Bootstrap  
+- 🕸️ Laravel  
+- 🌀 Angular  
+
+---
+
+## 🗄️ Bases de datos  
+- 💾 SQL  
+
+---
+
+## 🌐 Front-End  
+- 📝 HTML  
+- 🎨 CSS  
+- ⚡ JavaScript  
+
+---
+
+## 🤝 Soft Skills  
+- 💡 Creatividad e innovación  
+- 📢 Comunicación efectiva  
+- 🕐 Gestión del tiempo  
+
+---
+
+🖥️ "Los errores son solo oportunidades disfrazadas para aprender y mejorar tu código."
