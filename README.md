@@ -28,7 +28,7 @@
 
 ---
 
-## 🧰 Frameworks y Librerías
+## 🧰 Frameworks
 - Angular 🅰️  
 - Bootstrap 🟪  
 - Laravel 🔴  
