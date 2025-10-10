@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hola 👋, soy Adrián Dondarza Martín
 
-<!--
-**Adrian24prog/Adrian24prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador Junior**
 
-Here are some ideas to get you started:
+🎓 Estudiante de 2º año en Desarrollo de Aplicaciones Multiplataforma (2DAM)  
+💡 “Aprender haciendo es la mejor manera de crecer.”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📬 Contacto
+- 📧 Email: [adriandondarza@gmail.com](mailto:adriandondarza@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/adrian-dondarza-martin-5a71a7356/)
+
+---
+
+## 🌍 Soft Skills
+- 🤝 Trabajo en equipo y colaboración efectiva  
+- 📆 Organización y cumplimiento de deadlines  
+- 💡 Creatividad e innovación  
+- ❤️ Motivación y pasión por la tecnología  
+
+---
+
+## 🧠 Lenguajes de programación
+- Java ☕  
+- Kotlin 📱  
+- C# 🎯  
+
+---
+
+## 🧰 Frameworks y Librerías
+- Angular 🅰️  
+- Bootstrap 🟪  
+- Laravel 🔴  
+
+---
+
+## 🗄️ Bases de datos
+- SQL 🧠  
+- MySQL 🐬  
+
+---
+
+## 🐳 DevOps & Herramientas
+- Docker 🐳  
+- Git & GitHub 🔧  
+
+---
+
+## 🌐 Front-End
+- HTML5 🌐  
+- CSS 🎨    
+
+---
+
+## 🚀 ¿Qué puedo aportar?
+Siempre busco aprender, colaborar en proyectos innovadores y asumir nuevos retos.  
+¡Si te interesa construir algo increíble, conectemos!  
+
+> “El futuro se construye con las decisiones que tomamos hoy.”
